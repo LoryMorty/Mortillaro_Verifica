@@ -13,4 +13,5 @@ import { FourthComponentComponent } from './fourth-component/fourth-component.co
 })
 export class AppComponent {
   title = 'Mortillaro-Lorenzo-fila-b';
+  burzum: string = "app"
 }

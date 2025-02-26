@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './second-component.component.css'
 })
 export class SecondComponentComponent {
-
+  burzum: string = "secondo";
 }
